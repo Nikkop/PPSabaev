@@ -1,0 +1,13 @@
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\bin\Debug\Tehnotair.exe.config
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\bin\Debug\Tehnotair.exe
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\bin\Debug\Tehnotair.pdb
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.csproj.AssemblyReference.cache
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.FormLogin.resources
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.Properties.Resources.resources
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.csproj.GenerateResource.cache
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.csproj.CoreCompileInputs.cache
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.exe
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.pdb
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.FormUser.resources
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.FormAdmin.resources
+C:\Users\Слава\Desktop\ПП_2024_Сабаев\Tehnotair\obj\Debug\Tehnotair.FormZakaz.resources
